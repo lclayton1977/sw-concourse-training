@@ -2,6 +2,6 @@ release:
   name: <nginx-LaDerick>
 
 github:
-  username: <lclayton1977>
+  username: lclayton1977
   branch: master
   repository: (( concat "https://github.com/" github.username "/sw-concourse-training.git" ))
